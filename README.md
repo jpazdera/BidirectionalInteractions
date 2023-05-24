@@ -1,5 +1,6 @@
 # Bidirectional Interactions of Pitch and Time
-Upload and documentation in progress. Check back for more!
+
+All files have now been uploaded, and documentation is in progress. Check back later for more!
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
