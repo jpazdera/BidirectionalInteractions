@@ -12,7 +12,7 @@ E1/ contains all stimuli, code, and data for Experiment 1, which was a timing di
 
 E2/ contains all stimuli, code, and data for Experiment 2, which was a pitch discrimination experiment investigating whether early/late timing influences the perceived pitch of auditory stimuli.
 
-Both experiments were implemented in jsPsych and were run on <Pavlovia.org>. However, Experiment 1 was conducted remotely, whereas Experiment 2 was run in person through the browser of a lab computer.
+Both experiments were implemented in jsPsych and were run on [Pavlovia]<https://pavlovia.org>. However, Experiment 1 was conducted remotely, whereas Experiment 2 was run in person through the browser of a lab computer.
 
 For detailed documentation, see the README files located within each subdirectory.
 
