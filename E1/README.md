@@ -72,7 +72,7 @@
 * task_type: Indicates whether the participant was in the pitched context condition (type = 0) or the pitched probe condition (type = 1).
 * octave: Indicates that the data in this row corresponds to scores from trials of that octave (3, 5 or 7).
 * ioi: Indicates that the data in the row corresponds to scores from trials of that interonset interval (400 or 600).
-### Condition-rspecific scores
+### Condition-specific scores
 * accuracy: The participant's percent accuracy across all trials of the specified octave and IOI condition.
 * perc_resp_early: The percent of probes the participant labelled as early across all trials of the specified octave and IOI.
 * hit_rate: The participant's hit rate across all trials of the specified octave and IOI condition.
