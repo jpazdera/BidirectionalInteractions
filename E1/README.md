@@ -1,4 +1,4 @@
-# E1 Folder Structure
+# Experiment 1 Contents
 
 * analysis/:
     - figures/: Contains vectorized SVG files for the Experiment 1 figures included in the paper.
