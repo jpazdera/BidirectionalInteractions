@@ -2,7 +2,7 @@
 
 * analysis/:
     - figures/: Contains a vectorized SVG file for the Experiment 2 figure included in the paper.
-    - Analysis (IP).ipynb: Pyhthon code for loading data from the experiment and generating the figure included in the paper.
+    - Analysis (IP).ipynb: Python code for loading data from the experiment and generating the figure included in the paper.
     - Processing (IP).ipynb: Python code for preprocessing the data, including calculating d' and C for each condition and organizing data from all sessions into a scores.csv file.
     - Stats (IP).R: R code for all statistical analyses performed.
 * data/:
