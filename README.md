@@ -2,9 +2,9 @@
 
 This repository contains all stimuli, code, and data for:
 
-Pazdera, J. K. &amp; Trainor, L. J. (2023). Bidirectional interactions of pitch and time. In _Proceedings of the 17th International Conference on Music Cognition and Perception_.
+Pazdera, J. K., & Trainor, L. J. (2023). Bidirectional interactions of pitch and time. In _Proceedings of the 17th International Conference on Music Cognition and Perception_, 301--306. 
 
-A preprint of this manuscript is available at: <https://easychair.org/publications/preprint_download/FQlQ>
+An open-access preprint of this manuscript is available at: <https://easychair.org/publications/preprint_open/FQlQ>
 
 All supplemental materials are available on the Open Science Framework at <https://osf.io/3ahxe/>
 
