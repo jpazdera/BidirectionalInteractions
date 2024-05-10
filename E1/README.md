@@ -2,7 +2,7 @@
 
 * analysis/:
     - figures/: Contains vectorized SVG files for the Experiment 1 figures included in the paper.
-    - Analysis (IT-FDR2).ipynb: Pyhthon code for loading data from the experiment and generating the figures included in the paper.
+    - Analysis (IT-FDR2).ipynb: Python code for loading data from the experiment and generating the figures included in the paper.
     - Processing (IT-FDR2).ipynb: Python code for preprocessing the data, including calculating d' and C for each condition and organizing data from all sessions into a scores.csv file.
     - Screening (IT-FDR2).ipynb: Python code to detect and exclude participants who failed the headphone test or responded with a negative d'.
     - Stats (IT-FDR2).R: R code for all statistical analyses performed.
